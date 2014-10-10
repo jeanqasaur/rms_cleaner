@@ -6,7 +6,7 @@ BAD_LINES = ["--", "Dr Richard Stallman", "President, Free Software Foundation"
     , "[[[ whether defending the US Constitution against all enemies,     ]]]"
     , "[[[ foreign or domestic, requires you to follow Snowden's example. ]]]"
     , "Skype: No way! That's nonfree (freedom-denying) software."
-    , "Use Ekiga or an ordinary phone call."]
+    , "  Use Ekiga or an ordinary phone call."]
 
 def main(argv):
     def should_keep(line):
